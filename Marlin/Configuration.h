@@ -28,7 +28,7 @@
 
 ***********************************************************************/
 
-#define PRINTER_NAME "TEVO Tarantula (EasyConfig)"  // Change this to whatever you wish, or leave it as it is.
+#define PRINTER_NAME "TEVO Tarantula "  // Change this to whatever you wish, or leave it as it is.
                                                     // NOTE: Whatever you put here will have " Ready..." appended to it.
 
 /**
@@ -187,13 +187,13 @@
  *       CUSTOM_USER_MENUS for PETG to appear, along with PLA and ABS, under Custom Commands.
  *       PLA and ABS will appear under both Custom Command and Prepare.
  */
-#define Hot_PLA     215
-#define Bed_PLA      75
+#define Hot_PLA     190
+#define Bed_PLA      55
 
-#define Hot_ABS 		240
-#define Bed_ABS 		100
+#define Hot_ABS 		230
+#define Bed_ABS 		80
 
-#define Hot_PETG 		230
+#define Hot_PETG 		220
 #define Bed_PETG     80
 
 /**
